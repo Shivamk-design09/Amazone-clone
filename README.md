@@ -1,2 +1,3 @@
 # Amazone-clone
 I tried to make clone of amazon.in using html and css.
+Author -- Shivam Kumar
